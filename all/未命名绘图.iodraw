@@ -544,7 +544,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-175" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="143" y="3656" width="47" height="47" as="geometry" />
+          <mxGeometry x="186" y="3672.5" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-176" value="进入个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="268" y="3673.5" width="156" height="48" as="geometry" />
@@ -559,7 +559,7 @@
           <mxGeometry x="1596" y="3705" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-180" value="编辑个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="644" y="3705" width="103" height="48" as="geometry" />
+          <mxGeometry x="619" y="3694" width="103" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-181" value="格式校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="795" y="3640" width="112" height="112" as="geometry" />
