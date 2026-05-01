@@ -531,7 +531,7 @@
           <mxGeometry x="586" y="3582" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-144" value="判断角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="576" y="3662" width="112" height="112" as="geometry" />
+          <mxGeometry x="576" y="3706" width="114" height="68" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-145" value="管理员登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="804" y="3645" width="140" height="48" as="geometry" />
@@ -598,7 +598,7 @@
             <mxPoint x="437" y="3596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-157" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aPa_lfr1XTySNQlYNFyI-156">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-157" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aPa_lfr1XTySNQlYNFyI-156">
           <mxGeometry x="-0.5954" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
