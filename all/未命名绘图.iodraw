@@ -571,7 +571,7 @@
           <mxGeometry x="992" y="3731" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-184" value="保存成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1173" y="3721.5" width="119" height="67" as="geometry" />
+          <mxGeometry x="1142" y="3721.5" width="119" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-185" value="修改成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1383" y="3855" width="120" height="48" as="geometry" />
@@ -629,13 +629,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-196" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-184" target="aPa_lfr1XTySNQlYNFyI-182">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1397" y="3759" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-197" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-184" target="aPa_lfr1XTySNQlYNFyI-185">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -662,7 +655,7 @@
             <mxPoint x="945" y="3730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-202" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aPa_lfr1XTySNQlYNFyI-201">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-202" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aPa_lfr1XTySNQlYNFyI-201">
           <mxGeometry x="0.0378" y="1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
