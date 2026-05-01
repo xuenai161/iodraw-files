@@ -390,7 +390,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-86" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.58;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-73" target="aPa_lfr1XTySNQlYNFyI-74">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-86" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.58;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-73" target="aPa_lfr1XTySNQlYNFyI-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="271" y="2761" />
@@ -405,7 +405,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-88" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-73" target="aPa_lfr1XTySNQlYNFyI-75">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-88" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-73" target="aPa_lfr1XTySNQlYNFyI-75">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
