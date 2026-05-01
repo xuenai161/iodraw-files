@@ -349,7 +349,7 @@
           <mxGeometry x="475" y="2581" width="148" height="74" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-74" value="提示格式错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="145" y="2777" width="156" height="48" as="geometry" />
+          <mxGeometry x="205" y="2777" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-75" value="后端重复性检查&#xa;后端合法性检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="463" y="2717" width="172" height="66" as="geometry" />
@@ -455,7 +455,7 @@
             <mxPoint x="216" y="2482" as="targetPoint" />
             <Array as="points">
               <mxPoint x="87" y="3173" />
-              <mxPoint x="87" y="2478" />
+              <mxPoint x="154" y="2527" />
             </Array>
           </mxGeometry>
         </mxCell>
