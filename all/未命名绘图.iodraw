@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1557" dy="100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1840" dy="264" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -369,9 +369,6 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-80" value="注册成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="487" y="3126" width="124" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-83" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="525.5" y="3227" width="47" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-84" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-71" target="aPa_lfr1XTySNQlYNFyI-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -427,7 +424,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-80">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="549" y="3226" as="targetPoint" />
@@ -454,6 +451,16 @@
           <mxGeometry x="-0.0894" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-113" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-80" target="aPa_lfr1XTySNQlYNFyI-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="549" y="3174" as="sourcePoint" />
+            <mxPoint x="549" y="3226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-83" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="525.5" y="3204" width="47" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
