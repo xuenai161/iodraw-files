@@ -556,7 +556,7 @@
           <mxGeometry x="1432" y="3579" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-179" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1638" y="3705" width="47" height="47" as="geometry" />
+          <mxGeometry x="1596" y="3705" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-180" value="编辑个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="644" y="3705" width="103" height="48" as="geometry" />
@@ -574,7 +574,7 @@
           <mxGeometry x="1173" y="3721.5" width="119" height="67" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-185" value="修改成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1379" y="3855" width="124" height="48" as="geometry" />
+          <mxGeometry x="1383" y="3855" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-186" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-175" target="aPa_lfr1XTySNQlYNFyI-176">
           <mxGeometry relative="1" as="geometry">
