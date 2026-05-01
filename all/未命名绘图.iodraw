@@ -562,7 +562,7 @@
           <mxGeometry x="619" y="3694" width="103" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-181" value="格式校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="785" y="3666" width="112" height="112" as="geometry" />
+          <mxGeometry x="753" y="3694" width="112" height="66" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-182" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1379" y="3713" width="156" height="48" as="geometry" />
@@ -627,6 +627,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1006" y="3759" />
+              <mxPoint x="972" y="3755" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -656,7 +657,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-200" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-180">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-200" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-180" target="aPa_lfr1XTySNQlYNFyI-181">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="602" y="3900" as="sourcePoint" />
             <mxPoint x="652" y="3850" as="targetPoint" />
