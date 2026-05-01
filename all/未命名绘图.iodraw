@@ -478,7 +478,7 @@
           <mxGeometry x="645" y="3398" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-119" value="认证成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="839" y="3363" width="119" height="119" as="geometry" />
+          <mxGeometry x="839" y="3407" width="129" height="75" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-127" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-114" target="aPa_lfr1XTySNQlYNFyI-115">
           <mxGeometry relative="1" as="geometry">
@@ -528,7 +528,7 @@
           <mxGeometry x="379" y="3598" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-143" value="提示受限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="3564" width="124" height="48" as="geometry" />
+          <mxGeometry x="586" y="3582" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-144" value="判断角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="576" y="3662" width="112" height="112" as="geometry" />
@@ -595,7 +595,7 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-156" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-119">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="711" y="3489" as="sourcePoint" />
-            <mxPoint x="437" y="3591" as="targetPoint" />
+            <mxPoint x="437" y="3596" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
