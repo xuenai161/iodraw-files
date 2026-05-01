@@ -240,10 +240,10 @@
           <mxGeometry x="674" y="1771" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-51" value="管理员登录后台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="611" y="1868" width="172" height="48" as="geometry" />
+          <mxGeometry x="610.5" y="1906" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-52" value="选择功能模块" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="625" y="1966" width="143" height="110" as="geometry" />
+          <mxGeometry x="625" y="1996" width="143" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-53" value="用户与管理员管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="159" y="2183" width="188" height="48" as="geometry" />
