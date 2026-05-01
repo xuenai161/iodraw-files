@@ -531,10 +531,10 @@
           <mxGeometry x="586" y="3582" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-144" value="判断角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="576" y="3706" width="114" height="68" as="geometry" />
+          <mxGeometry x="554" y="3693" width="114" height="68" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-145" value="管理员登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="804" y="3645" width="140" height="48" as="geometry" />
+          <mxGeometry x="804" y="3655" width="121" height="38" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-146" value="普通用户登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="796" y="3743" width="156" height="48" as="geometry" />
