@@ -355,7 +355,7 @@
           <mxGeometry x="461" y="2797" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-76" value="校验是否通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="472" y="2913" width="151" height="151" as="geometry" />
+          <mxGeometry x="472" y="2913" width="151" height="73" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-77" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="3137" width="156" height="48" as="geometry" />
