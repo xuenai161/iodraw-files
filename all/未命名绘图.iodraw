@@ -927,7 +927,7 @@
           <mxGeometry x="170" y="5729" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-335" value="输入关键词搜索&#xa;或选择分类/排序" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="392" y="5720" width="180" height="66" as="geometry" />
+          <mxGeometry x="392" y="5720" width="133" height="66" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-336" value="查看商品列表&#xa;卡片展示主图/名称/价格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="622" y="5641" width="237" height="66" as="geometry" />
