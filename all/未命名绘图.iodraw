@@ -1244,7 +1244,7 @@
           <mxGeometry x="107" y="7055" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-451" value="补充详细情况说明" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="107" y="7154" width="188" height="48" as="geometry" />
+          <mxGeometry x="107" y="7138" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-452" value="提交纠纷申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="123" y="7221" width="156" height="48" as="geometry" />
@@ -1262,7 +1262,7 @@
           <mxGeometry x="53" y="7625" width="122" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-457" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="178" y="7837" width="47" height="47" as="geometry" />
+          <mxGeometry x="181" y="7712" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-458" value="驳回纠纷申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="220.5" y="7625" width="145" height="48" as="geometry" />
@@ -1352,6 +1352,9 @@
             <mxPoint x="4" y="7862" as="sourcePoint" />
             <mxPoint x="177" y="7862" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-483" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-452" target="aPa_lfr1XTySNQlYNFyI-452">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
