@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1665" dy="-69" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2240" dy="264" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1655,8 +1655,10 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-557" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="709" y="9712" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-558" value="写入用户信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="873" y="9835" width="156" height="48" as="geometry" />
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-587" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-560">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1029" y="9859.090909090908" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-560" value="注册成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1075" y="9837" width="124" height="48" as="geometry" />
@@ -1687,9 +1689,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-571" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-558">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-571" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-560">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1029" y="9859" as="sourcePoint" />
             <mxPoint x="1065" y="9865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
