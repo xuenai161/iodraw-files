@@ -1259,7 +1259,7 @@
           <mxGeometry x="142" y="7547" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-456" value="通过纠纷申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="7738" width="156" height="48" as="geometry" />
+          <mxGeometry x="54" y="7738" width="122" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-457" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="178" y="7837" width="47" height="47" as="geometry" />
