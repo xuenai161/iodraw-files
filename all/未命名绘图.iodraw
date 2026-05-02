@@ -1397,7 +1397,7 @@
           <mxGeometry x="375" y="8480" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-498" value="违规程度是否严重" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="426" y="8155" width="119" height="119" as="geometry" />
+          <mxGeometry x="426" y="8155" width="119" height="68" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-499" value="商品下架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="337" y="8364" width="124" height="48" as="geometry" />
@@ -1434,12 +1434,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-507" value="一般" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-499">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-507" value="一般" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-498" target="aPa_lfr1XTySNQlYNFyI-499">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="399" y="8310" />
             </Array>
             <mxPoint x="481" y="8277" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-516" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="aPa_lfr1XTySNQlYNFyI-507">
+          <mxGeometry x="-0.1329" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-508" value="严重" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-498" target="aPa_lfr1XTySNQlYNFyI-500">
