@@ -1262,10 +1262,10 @@
           <mxGeometry x="56" y="7571" width="122" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-457" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="181" y="7712" width="47" height="47" as="geometry" />
+          <mxGeometry x="176.5" y="7673" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-458" value="驳回纠纷申请" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220.5" y="7625" width="145" height="48" as="geometry" />
+          <mxGeometry x="223.5" y="7571" width="145" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-459" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-446" target="aPa_lfr1XTySNQlYNFyI-447">
           <mxGeometry relative="1" as="geometry">
