@@ -1516,11 +1516,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-528" value="查看详情" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-520" target="aPa_lfr1XTySNQlYNFyI-521">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-528" value="查看详情" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-521">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="114" y="9026" />
             </Array>
+            <mxPoint x="297" y="8933" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-529" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=-0.01;entryY=0.4;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-521" target="aPa_lfr1XTySNQlYNFyI-522">
@@ -1540,7 +1541,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-532" value="密码重置" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-520" target="aPa_lfr1XTySNQlYNFyI-524">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-532" value="密码重置" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-520" target="aPa_lfr1XTySNQlYNFyI-524">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="582" y="9026" />
