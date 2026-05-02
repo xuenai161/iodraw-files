@@ -1647,10 +1647,10 @@
           <mxGeometry x="485.5" y="9633" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-555" value="后端重复性检查&#xa;后端合法性检查" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="477.5" y="9813" width="172" height="66" as="geometry" />
+          <mxGeometry x="411" y="9807" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-556" value="校验是否通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="699.5" y="9771" width="151" height="151" as="geometry" />
+          <mxGeometry x="627" y="9799" width="151" height="82" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-557" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920.5" y="9709" width="156" height="48" as="geometry" />
