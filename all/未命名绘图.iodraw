@@ -1352,6 +1352,12 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-472" value="发起纠纷" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="161" y="6934" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-476" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="68" y="6969" as="sourcePoint" />
+            <mxPoint x="166" y="6969" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
