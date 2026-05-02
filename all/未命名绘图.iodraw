@@ -932,9 +932,6 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-336" value="查看商品列表&#xa;卡片展示主图/名称/价格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="622" y="5641" width="237" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-337" value="选择商品" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="5705" width="112" height="81" as="geometry" />
-        </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-343" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-333" target="aPa_lfr1XTySNQlYNFyI-334">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -952,19 +949,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-346" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-336" target="aPa_lfr1XTySNQlYNFyI-337">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-346" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-336">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="884" y="5674" />
             </Array>
+            <mxPoint x="880" y="5745.499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-347" value="继续浏览" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-337" target="aPa_lfr1XTySNQlYNFyI-335">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-347" value="继续浏览" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-335">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="884" y="5753" />
             </Array>
-            <mxPoint x="945" y="5728" as="sourcePoint" />
+            <mxPoint x="880" y="5745.499999999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-355" value="进入商品详情页&#xa;查看完整描述/评价/交易信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
