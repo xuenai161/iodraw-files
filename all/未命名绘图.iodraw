@@ -1119,7 +1119,7 @@
           <mxGeometry x="231" y="6399" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-410" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="405" y="6383" width="112" height="96" as="geometry" />
+          <mxGeometry x="408" y="6375" width="112" height="96" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-411" value="加入购物车" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="619" y="6366" width="140" height="48" as="geometry" />
@@ -1233,6 +1233,9 @@
           <mxGeometry x="-0.0012" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-445" value="%% 处理纠纷功能流程图 - 竖向&#xa;flowchart TD&#xa;    Start((开始)) --&gt; Order[下完订单后]&#xa;    Order --&gt; Issue[发现实物与描述不符]&#xa;    Issue --&gt; Apply[进入订单页面]&#xa;    Apply --&gt; Reason[选择纠纷申请理由]&#xa;    Reason --&gt; Desc[补充详细情况说明]&#xa;    Desc --&gt; Submit[提交纠纷申请]&#xa;    Submit --&gt; Admin[管理员后台查看]&#xa;    Admin --&gt; Check[核实纠纷信息]&#xa;    Check --&gt; Judge{是否通过?}&#xa;    &#xa;    Judge --&gt;|是| Approve[通过纠纷申请]&#xa;    Approve --&gt; End((结束))&#xa;    &#xa;    Judge --&gt;|否| Reject[驳回纠纷申请]&#xa;    Reject --&gt; End" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="545.6923076923076" y="7417.768930288461" width="237" height="267" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
