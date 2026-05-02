@@ -957,12 +957,10 @@
             <mxPoint x="880" y="5745.499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-347" value="继续浏览" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-335">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-347" value="继续浏览" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-335">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="884" y="5753" />
-            </Array>
-            <mxPoint x="880" y="5745.499999999999" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="902" y="5753" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-355" value="进入商品详情页&#xa;查看完整描述/评价/交易信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -1015,8 +1013,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-366" value="进入商品列表页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="905" y="5734" width="172" height="48" as="geometry" />
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-366" value="选择商品" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="885.5" y="5738" width="172" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
