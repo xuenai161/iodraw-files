@@ -725,9 +725,7 @@
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-227" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.4;entryX=0.25;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-214" target="aPa_lfr1XTySNQlYNFyI-215">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1233" y="4209" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-228" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.29;entryX=0.82;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-215" target="aPa_lfr1XTySNQlYNFyI-211">
