@@ -1638,7 +1638,7 @@
           <mxGeometry x="-175.5" y="9695" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-552" value="用户填写注册信息&#xa;账号/密码/姓名/学号/手机号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-78.5" y="9676" width="254" height="84" as="geometry" />
+          <mxGeometry x="-78.5" y="9676" width="180.5" height="84" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-553" value="前端校验是否通过?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="208" y="9792" width="140.5" height="71" as="geometry" />
