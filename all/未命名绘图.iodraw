@@ -1388,7 +1388,7 @@
           <mxGeometry x="259" y="7936" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-495" value="检查是否违规?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="278" y="8035" width="151" height="151" as="geometry" />
+          <mxGeometry x="278" y="8035" width="151" height="100" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-496" value="查看商品详情&#xa;发布人/名称/类型/价格/图片" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="8449" width="254" height="84" as="geometry" />
