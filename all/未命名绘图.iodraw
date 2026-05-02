@@ -1133,21 +1133,6 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-414" value="成功?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="983" y="6445" width="87" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-415" value="生成订单" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="6464" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-416" value="联系卖家交易" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1314" y="6464" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-417" value="交易完成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="6464" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-418" value="发起评价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1694" y="6464" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-419" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1868" y="6465" width="47" height="47" as="geometry" />
-        </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-420" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-408" target="aPa_lfr1XTySNQlYNFyI-409">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -1192,31 +1177,6 @@
               <mxPoint x="958" y="6523" />
               <mxPoint x="784" y="6523" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-427" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-414" target="aPa_lfr1XTySNQlYNFyI-415">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-428" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-415" target="aPa_lfr1XTySNQlYNFyI-416">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-429" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-416" target="aPa_lfr1XTySNQlYNFyI-417">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-430" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-417" target="aPa_lfr1XTySNQlYNFyI-418">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-431" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-418" target="aPa_lfr1XTySNQlYNFyI-419">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-432" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=1;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-411" target="aPa_lfr1XTySNQlYNFyI-410">
