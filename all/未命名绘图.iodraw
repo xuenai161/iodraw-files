@@ -1025,9 +1025,6 @@
             <mxPoint x="475" y="5900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-370" value="%% 交易评价功能流程图 - 横向&#xa;flowchart LR&#xa;    Start((开始)) --&gt; Select[选择心仪商品]&#xa;    Select --&gt; Action{选择操作}&#xa;    &#xa;    Action --&gt;|加入购物车| Cart[加入购物车]&#xa;    Cart --&gt; Continue[继续购物]&#xa;    Continue --&gt; Action&#xa;    &#xa;    Action --&gt;|直接购买| Buy[提交订单]&#xa;    Buy --&gt; Pay[支付订单]&#xa;    Pay --&gt; Success{支付成功?}&#xa;    &#xa;    Success --&gt;|否| Buy&#xa;    Success --&gt;|是| Off[商品下架]&#xa;    Off --&gt; Order[生成订单]&#xa;    &#xa;    Order --&gt; Detail[查看订单详情&lt;br/&gt;商品信息/卖家信息]&#xa;    Detail --&gt; Contact[联系卖家确认交易]&#xa;    Contact --&gt; Complete[交易完成]&#xa;    Complete --&gt; Evaluate[发起评价]&#xa;    &#xa;    Evaluate --&gt; Rate[评价内容&lt;br/&gt;描述相符/价格合理]&#xa;    Rate --&gt; Save[保存评价]&#xa;    Save --&gt; History[订单存入历史记录]&#xa;    History --&gt; End((结束))" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-131.61538461538476" y="5449.6923828125" width="330" height="396" as="geometry" />
-        </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-371" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="6148" width="47" height="47" as="geometry" />
         </mxCell>
