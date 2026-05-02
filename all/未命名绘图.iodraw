@@ -1556,28 +1556,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-534" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="9327" width="47" height="47" as="geometry" />
+          <mxGeometry x="8" y="9372" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-535" value="进入用户管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="117" y="9326" width="188" height="48" as="geometry" />
+          <mxGeometry x="105" y="9371" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-536" value="查看用户信息&#xa;昵称/头像/联系方式/性别/等级" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="355" y="9309" width="254" height="84" as="geometry" />
+          <mxGeometry x="343" y="9354" width="254" height="84" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-537" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="659" y="9294" width="112" height="112" as="geometry" />
+          <mxGeometry x="647" y="9339" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-538" value="查看用户详细资料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="889" y="9228" width="188" height="48" as="geometry" />
+          <mxGeometry x="881" y="9275" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-539" value="执行账号限制操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="889" y="9326" width="188" height="48" as="geometry" />
+          <mxGeometry x="877" y="9371" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-540" value="重置管理员密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="897" y="9425" width="172" height="48" as="geometry" />
+          <mxGeometry x="885" y="9470" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-541" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1127" y="9327" width="47" height="47" as="geometry" />
+          <mxGeometry x="1115" y="9372" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-542" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-534" target="aPa_lfr1XTySNQlYNFyI-535">
           <mxGeometry relative="1" as="geometry">
@@ -1594,11 +1594,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-545" value="查看详情" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-537" target="aPa_lfr1XTySNQlYNFyI-538">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-545" value="查看详情" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-537">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="9252" />
+              <mxPoint x="818" y="9297" />
             </Array>
+            <mxPoint x="877" y="9297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-546" value="账号限制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-537" target="aPa_lfr1XTySNQlYNFyI-539">
@@ -1609,15 +1610,16 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-547" value="密码重置" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-537" target="aPa_lfr1XTySNQlYNFyI-540">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="830" y="9449" />
+              <mxPoint x="818" y="9494" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-548" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-538" target="aPa_lfr1XTySNQlYNFyI-541">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-548" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-541">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1102" y="9252" />
+              <mxPoint x="1090" y="9297" />
             </Array>
+            <mxPoint x="1065" y="9297" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-549" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-539" target="aPa_lfr1XTySNQlYNFyI-541">
@@ -1628,7 +1630,7 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-550" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.25;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-540" target="aPa_lfr1XTySNQlYNFyI-541">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1102" y="9449" />
+              <mxPoint x="1090" y="9494" />
             </Array>
           </mxGeometry>
         </mxCell>
