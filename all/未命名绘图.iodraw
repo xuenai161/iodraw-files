@@ -778,7 +778,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-260" value="下架" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.93;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-252" target="aPa_lfr1XTySNQlYNFyI-254">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-260" value="下架" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-252" target="aPa_lfr1XTySNQlYNFyI-254">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="899" y="4539" />
@@ -1568,7 +1568,7 @@
           <mxGeometry x="647" y="9339" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-538" value="查看用户详细资料" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="881" y="9275" width="188" height="48" as="geometry" />
+          <mxGeometry x="877" y="9275" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-539" value="执行账号限制操作" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="877" y="9371" width="188" height="48" as="geometry" />
