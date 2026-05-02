@@ -723,7 +723,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-227" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.4;entryX=0.25;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-214" target="aPa_lfr1XTySNQlYNFyI-215">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-227" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.879;exitY=0.574;entryX=0.25;entryY=1.01;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-214" target="aPa_lfr1XTySNQlYNFyI-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -734,13 +734,6 @@
               <mxPoint x="1233" y="4118" />
               <mxPoint x="672" y="4118" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-229" value="成功" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.62;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-214">
-          <mxGeometry x="-0.0001" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1292" y="4251" as="targetPoint" />
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-250" value="数据入库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -805,6 +798,12 @@
               <mxPoint x="899" y="4469" />
               <mxPoint x="1123" y="4469" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-263" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="4250" as="sourcePoint" />
+            <mxPoint x="830" y="4200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
