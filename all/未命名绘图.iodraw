@@ -1240,9 +1240,6 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-447" value="下完订单后" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="131" y="6856" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-448" value="发现实物与描述不符" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="99" y="6954" width="204" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-450" value="选择纠纷申请理由" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="107" y="7055" width="188" height="48" as="geometry" />
         </mxCell>
@@ -1275,9 +1272,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-460" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-447" target="aPa_lfr1XTySNQlYNFyI-448">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-460" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-447">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="201" y="6954" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-462" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-450">
