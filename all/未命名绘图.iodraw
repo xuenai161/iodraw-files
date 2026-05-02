@@ -1396,7 +1396,7 @@
         <mxCell id="aPa_lfr1XTySNQlYNFyI-497" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="375" y="8480" width="47" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-498" value="违规程度?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-498" value="违规程度是否严重" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="426" y="8155" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="aPa_lfr1XTySNQlYNFyI-499" value="商品下架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
