@@ -1765,6 +1765,10 @@
         <mxCell id="KNXztqxMcPQW6q2VKn43-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-106">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="891" y="10432" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1006" y="11079" />
+              <mxPoint x="1006" y="10432" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-106" value="包含" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
