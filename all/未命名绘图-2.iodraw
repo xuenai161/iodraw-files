@@ -1769,7 +1769,7 @@
           <mxGeometry x="777" y="10852" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-105" value="商品" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="986" y="10784" width="92" height="48" as="geometry" />
+          <mxGeometry x="962" y="10784" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-106" value="归类" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="783" y="11039" width="80" height="80" as="geometry" />
@@ -1814,13 +1814,6 @@
         <mxCell id="KNXztqxMcPQW6q2VKn43-116" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-96" target="KNXztqxMcPQW6q2VKn43-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-117" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.45;entryY=-0.01;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-101" target="KNXztqxMcPQW6q2VKn43-105">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="912" y="10364" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-118" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-94" target="KNXztqxMcPQW6q2VKn43-97">
