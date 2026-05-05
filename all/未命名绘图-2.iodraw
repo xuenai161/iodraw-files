@@ -1968,6 +1968,9 @@
         <mxCell id="7XcWBI5W0Agyht58X05z-25" value="收藏" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="786" y="10219" width="92" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="7XcWBI5W0Agyht58X05z-26" value="商品" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="783" y="10279" width="108" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
