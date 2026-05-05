@@ -1965,7 +1965,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XcWBI5W0Agyht58X05z-25" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="7XcWBI5W0Agyht58X05z-25" value="收藏" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="786" y="10219" width="92" height="48" as="geometry" />
         </mxCell>
       </root>
