@@ -1783,13 +1783,13 @@
         <mxCell id="KNXztqxMcPQW6q2VKn43-109" value="管理" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="221" y="10462" width="112" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-110" value="审核商品" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="741" y="11177" width="112" height="112" as="geometry" />
+        <mxCell id="KNXztqxMcPQW6q2VKn43-110" value="管理" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="741" y="11192" width="112" height="97" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-111" value="处理订单" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="583" y="10893" width="112" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-112" value="维护分类" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KNXztqxMcPQW6q2VKn43-112" value="管理" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="398" y="11023" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-113" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=0;entryX=0;entryY=0.5;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-94" target="KNXztqxMcPQW6q2VKn43-95">
