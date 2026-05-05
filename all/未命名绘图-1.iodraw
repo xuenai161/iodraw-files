@@ -1478,46 +1478,46 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-517" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-517" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="329" y="8548" width="47" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-518" value="进入用户管理页面" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-518" value="进入用户管理页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="258" y="8645" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-519" value="查看用户信息&#xa;昵称/头像/联系方式/性别/等级" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-519" value="查看用户信息&#xa;昵称/头像/联系方式/性别/等级" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="225" y="8743" width="254" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-520" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-520" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="296" y="8877" width="112" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-521" value="查看用户详细资料" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-521" value="查看用户详细资料" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="9062" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-522" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-522" value="结束" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="329" y="9160" width="47" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-523" value="执行账号限制操作" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-523" value="执行账号限制操作" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="258" y="9062" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-524" value="重置密码" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-524" value="重置密码" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="496" y="9062" width="172" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-525" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-517" target="aPa_lfr1XTySNQlYNFyI-518" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-525" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-517" target="aPa_lfr1XTySNQlYNFyI-518" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-526" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-518" target="aPa_lfr1XTySNQlYNFyI-519" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-526" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-518" target="aPa_lfr1XTySNQlYNFyI-519" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-527" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-519" target="aPa_lfr1XTySNQlYNFyI-520" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-527" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-519" target="aPa_lfr1XTySNQlYNFyI-520" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-528" value="查看详情" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-521" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-528" value="查看详情" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="aPa_lfr1XTySNQlYNFyI-521" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="114" y="9026" />
@@ -1525,31 +1525,31 @@
             <mxPoint x="297" y="8933" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-529" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=-0.01;entryY=0.4;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-521" target="aPa_lfr1XTySNQlYNFyI-522" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-529" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=-0.01;entryY=0.4;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-521" target="aPa_lfr1XTySNQlYNFyI-522" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="114" y="9135" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-530" value="账号限制" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-520" target="aPa_lfr1XTySNQlYNFyI-523" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-530" value="账号限制" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-520" target="aPa_lfr1XTySNQlYNFyI-523" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-531" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-523" target="aPa_lfr1XTySNQlYNFyI-522" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-531" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.49;entryY=0;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-523" target="aPa_lfr1XTySNQlYNFyI-522" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-532" value="密码重置" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-520" target="aPa_lfr1XTySNQlYNFyI-524" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-532" value="密码重置" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-520" target="aPa_lfr1XTySNQlYNFyI-524" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="582" y="9026" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPa_lfr1XTySNQlYNFyI-533" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.4;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-524" target="aPa_lfr1XTySNQlYNFyI-522" edge="1">
+        <mxCell id="aPa_lfr1XTySNQlYNFyI-533" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.4;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aPa_lfr1XTySNQlYNFyI-524" target="aPa_lfr1XTySNQlYNFyI-522" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="582" y="9135" />
