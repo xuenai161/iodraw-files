@@ -1882,6 +1882,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KNXztqxMcPQW6q2VKn43-137" value="管理" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="776" y="10512" width="112" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
