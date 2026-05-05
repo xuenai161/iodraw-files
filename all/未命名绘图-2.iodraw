@@ -1784,7 +1784,7 @@
           <mxGeometry x="221" y="10462" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-110" value="审核商品" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="767" y="11170" width="112" height="112" as="geometry" />
+          <mxGeometry x="741" y="11177" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-111" value="处理订单" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="583" y="10893" width="112" height="112" as="geometry" />
