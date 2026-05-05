@@ -1739,7 +1739,7 @@
           <mxGeometry x="408" y="10494" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-95" value="发布求购" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="589" y="10135" width="112" height="98" as="geometry" />
+          <mxGeometry x="589" y="10222" width="112" height="98" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-97" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="587.5" y="10405" width="116.5" height="76.38" as="geometry" />
