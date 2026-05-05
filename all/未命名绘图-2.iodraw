@@ -1915,6 +1915,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7XcWBI5W0Agyht58X05z-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1424" y="11081" as="sourcePoint" />
+            <mxPoint x="1584" y="11081" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
