@@ -1971,6 +1971,13 @@
         <mxCell id="7XcWBI5W0Agyht58X05z-32" value="被加入" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="793" y="10322" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7XcWBI5W0Agyht58X05z-33" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7XcWBI5W0Agyht58X05z-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="451" y="10278" as="sourcePoint" />
+            <mxPoint x="538" y="10278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
