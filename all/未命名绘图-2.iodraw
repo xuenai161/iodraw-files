@@ -1883,7 +1883,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-137" value="被评论" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="785" y="10542" width="88" height="85" as="geometry" />
+          <mxGeometry x="791" y="10542" width="82" height="75" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-139" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-137" target="KNXztqxMcPQW6q2VKn43-103">
           <mxGeometry relative="1" as="geometry">
@@ -1892,11 +1892,12 @@
             <mxPoint x="1053" y="10646" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-141" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="KNXztqxMcPQW6q2VKn43-141" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-102" target="KNXztqxMcPQW6q2VKn43-137">
+          <mxGeometry x="0.0151" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1020" y="10532" as="sourcePoint" />
             <mxPoint x="1127" y="10532" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
