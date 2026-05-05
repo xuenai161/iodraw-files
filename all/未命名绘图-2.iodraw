@@ -1744,7 +1744,7 @@
         <mxCell id="KNXztqxMcPQW6q2VKn43-97" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="587.5" y="10405" width="116.5" height="76.38" as="geometry" />
         </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-98" value="评论" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KNXztqxMcPQW6q2VKn43-98" value="发表" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="599" y="10654" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-99" value="下单" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
