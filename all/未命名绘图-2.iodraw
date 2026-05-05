@@ -1762,7 +1762,7 @@
         <mxCell id="KNXztqxMcPQW6q2VKn43-104" value="订单" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="777" y="10852" width="92" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-106" value="归类" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KNXztqxMcPQW6q2VKn43-106" value="包含" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="783" y="11039" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-107" value="商品分类" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
