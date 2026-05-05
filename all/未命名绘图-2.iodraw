@@ -1745,7 +1745,7 @@
           <mxGeometry x="599" y="10323" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-97" value="加入购物车" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="575" y="10454" width="128" height="128" as="geometry" />
+          <mxGeometry x="575" y="10467" width="128" height="115" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-98" value="评论" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="599" y="10632" width="80" height="80" as="geometry" />
