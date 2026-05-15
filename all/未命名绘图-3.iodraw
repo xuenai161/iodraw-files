@@ -1744,7 +1744,7 @@
         <mxCell id="KNXztqxMcPQW6q2VKn43-97" value="生成" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="664.62" y="10765" width="104.38" height="84.5" as="geometry" />
         </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-100" value="求购" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="KNXztqxMcPQW6q2VKn43-100" value="评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1103" y="10618" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-107" value="二手物品分类" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -1849,6 +1849,11 @@
             <mxPoint x="727" y="10882" as="sourcePoint" />
             <mxPoint x="720" y="10848" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="407.00002712673586" y="10933.333808051215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-18" value="用户" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
