@@ -1748,7 +1748,7 @@
           <mxGeometry x="601" y="10399" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-102" value="商品" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="907" y="11001" width="108" height="48" as="geometry" />
+          <mxGeometry x="701" y="10853" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-107" value="物品分类" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="654" y="11252" width="124" height="48" as="geometry" />
@@ -1766,9 +1766,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-119" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-97" target="KNXztqxMcPQW6q2VKn43-102" edge="1">
+        <mxCell id="KNXztqxMcPQW6q2VKn43-119" value="N" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="KNXztqxMcPQW6q2VKn43-102" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="720" y="11029" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-127" value="1" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-107" edge="1">
