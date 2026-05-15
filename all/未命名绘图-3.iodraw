@@ -1825,18 +1825,6 @@
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-9" value="属于" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="675" y="11074" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-13" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-9" target="BhVk3Ku5gXiqsX2bSwEV-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="715" y="11074" as="sourcePoint" />
-            <mxPoint x="715" y="10956" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BhVk3Ku5gXiqsX2bSwEV-13">
-          <mxGeometry x="0.0472" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-11" value="二手物品" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="662" y="10911" width="108" height="48" as="geometry" />
         </mxCell>
@@ -1915,6 +1903,14 @@
             <Array as="points" />
             <mxPoint x="994" y="10652" as="sourcePoint" />
             <mxPoint x="1108.7777506510417" y="10652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-49" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;fontSize=20;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-9">
+          <mxGeometry x="0.0038" relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="780" y="10945" as="sourcePoint" />
+            <mxPoint x="883" y="10945" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
