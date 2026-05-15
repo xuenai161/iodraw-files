@@ -1832,6 +1832,11 @@
             <mxPoint x="715" y="10956" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-48" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BhVk3Ku5gXiqsX2bSwEV-13">
+          <mxGeometry x="0.0472" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-11" value="二手物品" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="662" y="10911" width="108" height="48" as="geometry" />
         </mxCell>
