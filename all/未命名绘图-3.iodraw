@@ -1837,11 +1837,11 @@
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-11" value="二手物品" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="662" y="10911" width="108" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-14" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-14" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;fontSize=20;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-11">
           <mxGeometry x="0.0038" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="584" y="10722" as="sourcePoint" />
-            <mxPoint x="672" y="10647" as="targetPoint" />
+            <mxPoint x="860" y="10930" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
