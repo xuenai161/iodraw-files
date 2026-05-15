@@ -1860,12 +1860,6 @@
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-20" value="添加" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="883" y="10599" width="101" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="134" y="10965" as="sourcePoint" />
-            <mxPoint x="184" y="10915" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-29" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="444" y="10888.69" width="104.38" height="84.5" as="geometry" />
         </mxCell>
@@ -1880,7 +1874,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-32" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;fontSize=20;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-32" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;fontSize=20;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-29" target="BhVk3Ku5gXiqsX2bSwEV-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="994" y="10652" as="sourcePoint" />
