@@ -1774,7 +1774,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="764" y="11232" as="sourcePoint" />
-            <mxPoint x="715" y="11115" as="targetPoint" />
+            <mxPoint x="715" y="11154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-130" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="KNXztqxMcPQW6q2VKn43-94" edge="1">
@@ -1824,10 +1824,10 @@
           <mxGeometry x="247" y="11254" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-9" value="属于" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="677" y="11035" width="80" height="80" as="geometry" />
+          <mxGeometry x="675" y="11074" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-11" value="商品" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="665.75" y="10839" width="108" height="48" as="geometry" />
+          <mxGeometry x="662" y="10831" width="108" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
