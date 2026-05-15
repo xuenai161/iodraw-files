@@ -1736,13 +1736,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-94" value="用户" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="482" y="10688" width="92" height="48" as="geometry" />
+          <mxGeometry x="459" y="10672" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-95" value="发布求购" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="401" y="10370" width="112" height="98" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-97" value="生成" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="678.62" y="10765" width="76.38" height="84.5" as="geometry" />
+          <mxGeometry x="664.62" y="10765" width="104.38" height="84.5" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-100" value="求购" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="601" y="10399" width="92" height="48" as="geometry" />
