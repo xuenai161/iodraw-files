@@ -1909,7 +1909,7 @@
             <mxPoint x="-228" y="10933" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-39" value="购物车" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-39" value="求购" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-337" y="10913" width="108" height="48" as="geometry" />
         </mxCell>
       </root>
