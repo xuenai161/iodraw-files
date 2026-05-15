@@ -1865,7 +1865,7 @@
           <mxGeometry x="247" y="10904" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-19" value="发起" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="10871" width="112" height="98" as="geometry" />
+          <mxGeometry x="-10" y="10878" width="107" height="91" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-20" value="添加" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="883" y="10599" width="101" height="86" as="geometry" />
@@ -1889,6 +1889,12 @@
             <Array as="points" />
             <mxPoint x="994" y="10652" as="sourcePoint" />
             <mxPoint x="1108.7777506510417" y="10652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="10893" as="sourcePoint" />
+            <mxPoint x="99" y="10928" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
