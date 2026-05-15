@@ -1841,7 +1841,7 @@
           <mxGeometry x="247" y="11254" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-9" value="包含" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="714" y="11026" width="80" height="80" as="geometry" />
+          <mxGeometry x="675" y="10985" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
