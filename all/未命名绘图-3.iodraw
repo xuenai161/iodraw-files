@@ -1799,6 +1799,16 @@
         <mxCell id="7XcWBI5W0Agyht58X05z-29" value="购物车" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="853" y="10395" width="108" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7XcWBI5W0Agyht58X05z-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="584.7778049045137" y="10462.222696940104" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7XcWBI5W0Agyht58X05z-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="838.9999457465278" y="10362.667100694443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7XcWBI5W0Agyht58X05z-32" value="被加入" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="867" y="10498" width="80" height="60" as="geometry" />
         </mxCell>
