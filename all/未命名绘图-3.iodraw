@@ -1856,6 +1856,9 @@
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-19" value="发布求购" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="411" y="10380" width="112" height="98" as="geometry" />
         </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-20" value="添加" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="883" y="10587" width="112" height="98" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
