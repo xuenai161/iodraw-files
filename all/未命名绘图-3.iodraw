@@ -1763,7 +1763,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-119" value="N" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-9" edge="1">
+        <mxCell id="KNXztqxMcPQW6q2VKn43-119" value="N" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="722" y="11035" as="sourcePoint" />
@@ -1826,8 +1826,15 @@
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-9" value="属于" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="675" y="11074" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-11" value="商品" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="662" y="10831" width="108" height="48" as="geometry" />
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-13" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=20;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-9" target="BhVk3Ku5gXiqsX2bSwEV-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="715" y="11074" as="sourcePoint" />
+            <mxPoint x="715" y="10956" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-11" value="二手物品" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="662" y="10911" width="108" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
