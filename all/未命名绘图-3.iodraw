@@ -1799,14 +1799,16 @@
         <mxCell id="7XcWBI5W0Agyht58X05z-29" value="购物车" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1106.5" y="10911" width="108" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7XcWBI5W0Agyht58X05z-32">
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="584.7778049045137" y="10462.222696940104" as="targetPoint" />
+            <mxPoint x="974" y="10220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7XcWBI5W0Agyht58X05z-32">
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="838.9999457465278" y="10362.667100694443" as="targetPoint" />
+            <mxPoint x="1107" y="10311" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7XcWBI5W0Agyht58X05z-32" value="被加入" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -1913,9 +1915,6 @@
             <mxPoint x="-155" y="10928" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-52" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-252" y="10900" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
