@@ -1851,19 +1851,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407.00002712673586" y="10933.333808051215" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-18" value="用户" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="469" y="10682" width="92" height="48" as="geometry" />
+          <mxGeometry x="380" y="10906" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-19" value="发布求购" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="411" y="10380" width="112" height="98" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-20" value="添加" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="883" y="10599" width="101" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-22" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="429.2222222222222" y="11290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
