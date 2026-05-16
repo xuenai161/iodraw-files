@@ -1763,13 +1763,6 @@
         <mxCell id="7XcWBI5W0Agyht58X05z-29" value="购物车" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1073.25" y="11119" width="108" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="7XcWBI5W0Agyht58X05z-33" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;fontSize=22;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KNXztqxMcPQW6q2VKn43-94" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="954.25" y="10750" as="sourcePoint" />
-            <mxPoint x="848.75" y="10849" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-9" value="属于" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="641.75" y="11282" width="80" height="80" as="geometry" />
         </mxCell>
