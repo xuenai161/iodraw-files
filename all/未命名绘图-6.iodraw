@@ -1809,7 +1809,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-18" value="用户" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="123" y="11100" width="92" height="48" as="geometry" />
+          <mxGeometry x="213.75" y="11112" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-20" value="添加" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="849.75" y="10807" width="101" height="86" as="geometry" />
@@ -1839,15 +1839,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mmNvoVLAXUmjHgnQ4mLT-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BhVk3Ku5gXiqsX2bSwEV-29">
+        <mxCell id="mmNvoVLAXUmjHgnQ4mLT-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="BhVk3Ku5gXiqsX2bSwEV-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="308" y="11142" as="sourcePoint" />
+            <mxPoint x="308" y="11139" as="sourcePoint" />
             <mxPoint x="358" y="11092" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mmNvoVLAXUmjHgnQ4mLT-2" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mmNvoVLAXUmjHgnQ4mLT-1">
-          <mxGeometry x="-0.0273" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
