@@ -1739,7 +1739,7 @@
           <mxGeometry x="637.75" y="10825" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-97" value="生成" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="631.37" y="10973" width="104.38" height="84.5" as="geometry" />
+          <mxGeometry x="635.38" y="10987" width="94.75" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KNXztqxMcPQW6q2VKn43-100" value="评价" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1069.75" y="10826" width="92" height="48" as="geometry" />
@@ -1758,12 +1758,6 @@
             <Array as="points" />
             <mxPoint x="688.75" y="11243" as="sourcePoint" />
             <mxPoint x="681.75" y="11164" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KNXztqxMcPQW6q2VKn43-130" value="N" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=1;rounded=0;fontSize=22;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="KNXztqxMcPQW6q2VKn43-94" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="681.75" y="10969" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7XcWBI5W0Agyht58X05z-29" value="购物车" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
