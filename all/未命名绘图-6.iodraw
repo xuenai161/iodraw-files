@@ -1817,17 +1817,6 @@
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-29" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="410.75" y="11096.69" width="104.38" height="84.5" as="geometry" />
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-30" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;fontSize=22;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-18" edge="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="333.75" y="11499" as="sourcePoint" />
-            <mxPoint x="412.75" y="11136" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-31" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="BhVk3Ku5gXiqsX2bSwEV-30" vertex="1" connectable="0">
-          <mxGeometry x="0.0535" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-32" value="N" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;rounded=0;fontSize=22;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-29" target="BhVk3Ku5gXiqsX2bSwEV-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -1852,8 +1841,8 @@
         </mxCell>
         <mxCell id="mmNvoVLAXUmjHgnQ4mLT-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="349" y="11426" as="sourcePoint" />
-            <mxPoint x="399" y="11376" as="targetPoint" />
+            <mxPoint x="308" y="11142" as="sourcePoint" />
+            <mxPoint x="358" y="11092" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
