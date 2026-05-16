@@ -1793,14 +1793,6 @@
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-15" value="加入" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="839.75" y="11104.81" width="116.5" height="76.38" as="geometry" />
         </mxCell>
-        <mxCell id="BhVk3Ku5gXiqsX2bSwEV-17" value="1" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=22;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-11" target="KNXztqxMcPQW6q2VKn43-97" edge="1">
-          <mxGeometry x="0.0038" relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="693.75" y="11090" as="sourcePoint" />
-            <mxPoint x="686.75" y="11056" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-18" value="用户" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="213.75" y="11112" width="92" height="48" as="geometry" />
         </mxCell>
@@ -1808,7 +1800,7 @@
           <mxGeometry x="849.75" y="10807" width="101" height="86" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-29" value="发布" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=22;direction=south;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="410.75" y="11110" width="98.25" height="71.19" as="geometry" />
+          <mxGeometry x="412.75" y="11104.81" width="98.25" height="71.19" as="geometry" />
         </mxCell>
         <mxCell id="BhVk3Ku5gXiqsX2bSwEV-46" value="1" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;fontSize=22;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BhVk3Ku5gXiqsX2bSwEV-15" target="7XcWBI5W0Agyht58X05z-29" edge="1">
           <mxGeometry relative="1" as="geometry">
